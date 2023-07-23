@@ -1,0 +1,4 @@
+2,Nawal,02/05/20,25/8/20,60,012393493,klang 41100,232,excel,333,English,4
+4,john,21/03/19,21/02/20,60,012312323,batu,223,exxel,123,Chemistry,4
+3,Ee Yan,23/12/19,23/12/20,60,01293932,petaling jaya,322,exxel,444,Biology,5
+1,Lee Jia,21/4/12,23/06/19,50,0125885515,kuala lumpur,123,axcel,222,Mathematics,5
